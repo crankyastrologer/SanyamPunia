@@ -16,7 +16,7 @@
 
 ### ⚡ GitHub Stats
   
-[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanyamPunia&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanyamPunia&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
