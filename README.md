@@ -1,7 +1,7 @@
 ### Hi there, I'm Sanyam Punia 👋
 
 - 🔭 I’m currently working on Various Web Applications
-- 🌱 I’m currently learning ReactJS, React-Native
+- 🌱 I’m currently learning ReactJS, NextJS
 - 📫 You can reach me at my mail: lewarends@gmail.com
 - 🎵 I also produce Music. Find me on soundcloud [@prodmxle](https://soundcloud.com/prodmxle)
 
