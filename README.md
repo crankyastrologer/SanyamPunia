@@ -38,3 +38,5 @@
 [twitter]: https://twitter.com/prodmxle
 [spotify]: https://open.spotify.com/artist/2QbtOIjb8mUIsnCNqvyWAW?si=a47ce93f69dd4a5d
 [discord]: https://discord.gg/35me98GxdF
+
+[visitor](https://page-views.glitch.me/badge?page_id=sanyam.visitor-badge)
