@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Various Web Applications
 - 🌱 I’m currently learning ReactJS, NextJS
 - 📫 You can reach me at my mail: lewarends@gmail.com
+- 📑 I also write technical articles on medium. Check them out [here]
 - 🎵 I also produce Music. Find me on soundcloud [@prodmxle](https://soundcloud.com/prodmxle)
 
 ### 🛠 Tech Stack
@@ -38,5 +39,6 @@
 [twitter]: https://twitter.com/prodmxle
 [spotify]: https://open.spotify.com/artist/2QbtOIjb8mUIsnCNqvyWAW?si=a47ce93f69dd4a5d
 [discord]: https://discord.gg/35me98GxdF
+[here]: https://medium.com/@prodmxle
 
 ![visitors](https://page-views.glitch.me/badge?page_id=SanyamPunia.visitor-badge)
