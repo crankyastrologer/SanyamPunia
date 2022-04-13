@@ -3,7 +3,7 @@
 ### Hi there, I'm Sanyam Punia 👋
 
 - 🔭 I’m currently working on Blockchain / Web3 Web Apps
-- 🌱 I’m currently learning Next.js, thirdweb
+- 🌱 I’m currently learning Next.js, Solidity
 - 📫 You can reach me at my mail: lewarends@gmail.com
 - 📑 I also write technical articles on medium. Check them out [here]
 - 🎵 I also produce Music. Find me on soundcloud [@prodmxle](https://soundcloud.com/prodmxle)
@@ -12,6 +12,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-5c1ef7?logo=JavaScript&style=flat)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
