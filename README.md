@@ -1,4 +1,4 @@
-[![Sanyam, Full Stack Web Developer & Music Producer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Full%20Stack%20Web%20Developer%20%26%20Music%20Producer&title=Sanyam)](https://pimp-my-readme.webapp.io)
+<!-- [![Sanyam, Full Stack Web Developer & Music Producer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Full%20Stack%20Web%20Developer%20%26%20Music%20Producer&title=Sanyam)](https://pimp-my-readme.webapp.io) -->
 
 ### Hi there, I'm Sanyam Punia 👋
 
