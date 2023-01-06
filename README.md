@@ -38,7 +38,7 @@
 
 <br/>
 
-[website]: https://sanyampunia.github.io/
+[website]: https://sanyam.xyz/
 [soundcloud]: https://soundcloud.com/prodmxle
 [twitter]: https://twitter.com/prodmxle
 [spotify]: https://open.spotify.com/artist/2QbtOIjb8mUIsnCNqvyWAW?si=a47ce93f69dd4a5d
