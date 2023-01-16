@@ -36,7 +36,7 @@
 
 ### ⚡ GitHub Stats
   
-[![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanyamPunia&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sanyam's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SanyamPunia&show_icons=true&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
