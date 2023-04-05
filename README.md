@@ -2,8 +2,8 @@
 
 ### Hi there, I'm Sanyam Punia 👋
 
-- 🔭 I’m currently working on Blockchain / Web3 Web Apps
-- 🌱 I’m currently learning Next.js, Solidity
+- 🔭 I’m currently working on T3 Tech Stack
+- 🌱 I’m currently learning Next.js, tRPC
 - 📫 You can reach me at my mail: lewarends@gmail.com
 - 📑 I also write technical articles on medium. Check them out [here]
 - 🎵 I also produce Music. Find me on soundcloud [@prodmxle](https://soundcloud.com/prodmxle)
