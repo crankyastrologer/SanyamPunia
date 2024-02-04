@@ -25,13 +25,6 @@
 
 ***...and many more!***
 
-### Connect with me:
-
-[<img align="left" alt="https://sanyampunia.github.io/" width="22px" src="https://img.icons8.com/color/50/000000/geography--v3.png" />][website]
-[<img align="left" alt="YouTube" width="22px" src="https://img.icons8.com/color/48/000000/soundcloud.png"/>][soundcloud]
-[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/spotify.png" />][spotify]
-[<img align="left" alt="Discord" width="22px" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" />][discord]
 
 <br/>
 
