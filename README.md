@@ -45,4 +45,4 @@
 [discord]: https://discord.gg/35me98GxdF
 [here]: https://medium.com/@prodmxle
 
-![visitors](https://komarev.com/ghpvc/?username=sanyampunia&style=flat-square)
+![visitors](https://komarev.com/ghpvc/?username=crankyastrologer&style=flat-square)
