@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Tensorflow, PyTorch
 - 📫 You can reach me at my mail: ansh0verma@gmail.com
-- 📑 I also write technical articles on medium. Check them out [here]
+
 
 ### 🛠 Tech Stack
 
